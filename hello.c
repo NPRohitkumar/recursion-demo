@@ -6,7 +6,7 @@ int main()
     printf("enter the value of n");
     scanf("%d",&n);
     result=sum(n);
-    printf("fact of %d natural number is %d",n,result);
+    printf("fact is %d",result);
     return 0;
     
 
